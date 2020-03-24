@@ -1,0 +1,4 @@
+logging.level.software.amazon.awssdk: TRACE
+logging.software.amazon.awssdk.request: TRACE
+logging.level.org.apache.http.wire: TRACE
+
